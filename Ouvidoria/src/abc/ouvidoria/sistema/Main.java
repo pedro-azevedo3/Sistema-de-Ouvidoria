@@ -19,7 +19,7 @@ public class Main {
 		Manifestacao m6 = new Manifestacao(6,"Mesas quebradas no foodpark","Temos 6 mesas quebradas e inutilizaveis no foodpark","Reclamacao","Aberta");
 		Manifestacao m7 = new Manifestacao(7,"Estamos sem internet na ala de Engenharia Civil","Wi-fi está sem funcionar na sala 45 de Engenharia Civil","Reclamacao","Aberta");
 		Manifestacao m8 = new Manifestacao(8,"Update no software das catracas","Vi na internet que as nossas catracas podem ser atualizadas para liberar os estudantes mais rapido, voces deveriam ir atras dessa atualizacao","Sujestao","Em andamento");
-		Manifestacao m9 = new Manifestacao(9,"Urinaram na parede do banheiro feminino","Temos 6 mesas quebradas e inutilizaveis no foodpark","Reclamacao","Resolvido");
+		Manifestacao m9 = new Manifestacao(9,"Urinaram na parede do banheiro feminino","O cheiro de urina está muito forte no banheiro!","Reclamacao","Resolvido");
 		Manifestacao m10 = new Manifestacao(10,"Boa disposição de lixeiras no lado de fora da faculdade","Queria elogiar a grande quantidade de lixeiras no ambiente de fora da faculdade, oque nos ajuda a manter o ambiente limpo!","Elogio","Fechado");
 		
 		Conta c1 = new Conta("Pedro","pedroazte","pedro","pedro123");
