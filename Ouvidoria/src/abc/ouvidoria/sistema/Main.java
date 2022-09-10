@@ -26,7 +26,7 @@ public class Main {
 		Conta c2 = new Conta("Daniel","danielabella","abella34","abella123");
 		Conta c3 = new Conta("Guilherme","guilhermeazte","guilherme120","guilherme123");
 		
-		System.out.println("Esta e a sua manifestacao: ");
+		System.out.println("Estas são suas manifestacoes: ");
 		System.out.println(m1);
 		System.out.println(m2);
 		System.out.println(m3);
