@@ -67,7 +67,6 @@ public class Manifestacao {
 	}
 	
 
-
 	@Override
 	public String toString() {
 		return "ID da Manifestacao = " + idmanifestacao + ", Titulo = " + titulo + ", Descricao = " + descricao
